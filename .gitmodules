@@ -1,0 +1,4 @@
+[submodule "TrainPowerConverterSim_private"]
+	path = TrainPowerConverterSim_private
+	url = https://github.com/EngrIbrahimAdnan/TrainPowerConverterSim_private.git
+	branch = main
